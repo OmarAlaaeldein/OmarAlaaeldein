@@ -4,7 +4,6 @@ I'm a programmer who is interested in deep learning, and full stack development.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=omaralaahamdy.omaralaahamdy)
 
 ### Interests
-<a href= https://github.com/anirudhsaxena13?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a
 Python, tensorflow, Sklearn, flutter
 
   
