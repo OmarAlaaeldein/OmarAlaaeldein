@@ -5,7 +5,7 @@ I'm a programmer who is interested in deep learning, and full stack development.
 
 
 ### Interests
-Python, tensorflow, Sklearn, flutter
+Python, Tensorflow, Sklearn, Flutter
 
   
 [![omaralaahamdy github stats](https://github-readme-stats.vercel.app/api?username=omaralaahamdy)](https://github.com/omaralaahamdy/github-readme-stats)
