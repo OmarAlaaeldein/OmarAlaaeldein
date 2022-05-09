@@ -8,7 +8,7 @@ I'm a programmer who is interested in deep learning, and full stack development.
 Python, Tensorflow, Sklearn, Flutter
 
   
-[![omaralaahamdy github stats](https://github-readme-stats.vercel.app/api?username=omaralaahamdy)](https://github.com/omaralaahamdy/github-readme-stats)
+[![OmarAlaaeldein github stats](https://github-readme-stats.vercel.app/api?username=OmarAlaaeldein)](https://github.com/OmarAlaaeldein/github-readme-stats)
 <!--
 **omaralaahamdy/omaralaahamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
