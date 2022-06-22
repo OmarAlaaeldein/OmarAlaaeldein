@@ -9,9 +9,8 @@ Python, Tensorflow, Sklearn, Flutter
 
   
 [![OmarAlaaeldein github stats](https://github-readme-stats.vercel.app/api?username=OmarAlaaeldein)](https://github.com/OmarAlaaeldein/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAlaaeldein&show_icons=true&locale=en&layout=compact" alt="OmarAlaaeldein" /></p>
 <!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAlaaeldein&show_icons=true&locale=en&layout=compact" alt="OmarAlaaeldein" /></p>
 **omaralaahamdy/omaralaahamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
