@@ -1,12 +1,10 @@
-### Hi, I'm Omar
+### Omar Alaaeldein
 
-Building systems at the edge of networking, markets, and ML. Based in Montreal (Polytechnique).
+Montreal · Polytechnique Montréal
 
-**Stuff worth looking at**
-
-- [OpenTailcat](https://github.com/OmarAlaaeldein/OpenTailcat) — Android client for Tailcat. Paste a `tc…` token, talk to your own gateway. No middleman control plane.
-- [Sentinel-Chimp](https://github.com/OmarAlaaeldein/Sentinel-Chimp) — desktop market terminal (options, vol, sentiment).
-- [ALViS](https://github.com/OmarAlaaeldein/ALViS) — CT scans → personalized 3D lung models for airflow simulation.
-- [Unit-Test-Recommender](https://github.com/OmarAlaaeldein/Unit-Test-Recommender) — suggest unit tests from code or a plain-English ask.
-
-Also: [production-line Arena sim](https://github.com/OmarAlaaeldein/Arena-Simulation-Production-Line-Optimization), [vault-graph-html](https://github.com/OmarAlaaeldein/vault-graph-html).
+- [OpenTailcat](https://github.com/OmarAlaaeldein/OpenTailcat) — Android Tailcat client. Your gateway, your `tc…` token.
+- [Sentinel-Chimp](https://github.com/OmarAlaaeldein/Sentinel-Chimp) — Python market terminal (options, GARCH, sentiment).
+- [ALViS](https://github.com/OmarAlaaeldein/ALViS) — CT → 3D lung models for airflow simulation.
+- [Unit-Test-Recommender](https://github.com/OmarAlaaeldein/Unit-Test-Recommender) — unit-test suggestions from code or plain language.
+- [Arena Simulation](https://github.com/OmarAlaaeldein/Arena-Simulation-Production-Line-Optimization) — production-line bottleneck / resource sim.
+- [vault-graph-html](https://github.com/OmarAlaaeldein/vault-graph-html) — vault graph visualization.
