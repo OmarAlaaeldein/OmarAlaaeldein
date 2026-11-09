@@ -1,6 +1,5 @@
 ### Omar Alaaeldein
 
-Montreal · Polytechnique Montréal
 
 - [OpenTailcat](https://github.com/OmarAlaaeldein/OpenTailcat) — Android Tailcat client. Your gateway, your `tc…` token.
 - [Sentinel-Chimp](https://github.com/OmarAlaaeldein/Sentinel-Chimp) — Python market terminal (options, GARCH, sentiment).
